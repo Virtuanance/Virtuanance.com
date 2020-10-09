@@ -1,4 +1,4 @@
-## <center>AR Maintenance Project: Virtuanance1</center>
+## <center>AR Maintenance Project: Virtuanance</center>
 
 ### Abstract
 
