@@ -1,4 +1,4 @@
-## <div align="center"> AR Maintenance Project: Virtuanance </div>
+## <p style="text-align: center;"> AR Maintenance Project: Virtuanance </p>
 
 ### Abstract
 
