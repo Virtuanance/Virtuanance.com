@@ -20,9 +20,9 @@ With our proposal, we aim to create a VR/AR-based software that will connect two
 
 ### Sketches
 
-<img src="/1.png" style="display: block; margin: auto;" />
-<img src="/2.png" style="display: block; margin: auto;" />
-<img src="/3.png" style="display: block; margin: auto;" />
-<img src="/4.png" style="display: block; margin: auto;" />
-<img src="/5.png" style="display: block; margin: auto;" />
-<img src="/6.png" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/1.png?raw=true" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/2.png?raw=true" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/3.png?raw=true" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/4.png?raw=true" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/5.png?raw=true" style="display: block; margin: auto;" />
+<img src="https://github.com/Virtuanance/Virtuanance.com/blob/main/6.png?raw=true" style="display: block; margin: auto;" />
