@@ -1,4 +1,4 @@
-## <p style="text-align: center;"> AR Maintenance Project: Virtuanance </p>
+##              AR Maintenance Project: Virtuanance 1
 
 ### Abstract
 
