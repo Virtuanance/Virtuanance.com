@@ -18,4 +18,11 @@ Our proposal consists of 3 main components, chat, digital model, and tracking. V
 
 With our proposal, we aim to create a VR/AR-based software that will connect two groups of people (professionals and technicians) to fix faulty machinery. By having voice and text chat features, efficient communication will be established. Creating a digital copy of the machinery being worked on, users can interact with the separate pieces for getting in-depth knowledge. Also, by having visual aids on both digital models and physical machines using tracking algorithms, we aim to increase efficiency during operations.
 
+### Sketches
 
+<img src="/1.png" style="display: block; margin: auto;" />
+<img src="/2.png" style="display: block; margin: auto;" />
+<img src="/3.png" style="display: block; margin: auto;" />
+<img src="/4.png" style="display: block; margin: auto;" />
+<img src="/5.png" style="display: block; margin: auto;" />
+<img src="/6.png" style="display: block; margin: auto;" />
