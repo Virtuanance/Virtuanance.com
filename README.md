@@ -1,5 +1,5 @@
 ## <center>AR Maintenance Project: Virtuanance</center>
-
+<a href="Analysis Report.docx">Download File</a>
 ### Abstract
 
 Virtual Reality and Augmented Reality Technologies are being integrated into our lives each day. Especially in industrial fields, these technologies are proven to be useful for improving efficiency in almost every aspect. They are being used to lower human errors during delicate operations, increase time efficiency, lower costs, and decrease the number of personnel required to complete tasks. A popular field for VR/AR-based solutions is Remote Maintenance operations where a professional is required to aid untrained technicians to fix faulty machinery. We are proposing a solution for integrating VR/AR technologies in remote maintenance operations.
