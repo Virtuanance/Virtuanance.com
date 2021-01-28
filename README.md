@@ -1,6 +1,6 @@
 ## <center>AR Maintenance Project: Virtuanance</center>
 <a href="Virtuanance_-_Analysis_Report.pdf">Download Analysis Report</a>
--
+
 <a href="HighLevelDesign_Report_Virtuanance">Download High Level Design Report</a>
 ### Abstract
 
